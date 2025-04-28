@@ -1,0 +1,16 @@
+.odd{
+    background-color: #FE7F9C;
+    font-family: Verdana, sans-serif;
+}
+#two {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+.odd.different{
+    font-size: 24px;
+}
+.four{
+    background-color: rgb(0, 255, 0);
+    font-weight: 700;
+    font-size: 24px;
+}
